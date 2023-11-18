@@ -15,7 +15,7 @@ Please keep quiet about it, as it doesn't need to be publicized.
 - Python 3.6+ (tested on 3.8, 3.10, 3.11, but should work on 3.6+)
 - pip (should be installed with Python)
 
-### Install
+### 安装
 
 1. 克隆或下载此仓库
 2. 在仓库目录下运行 `pip install -r requirements.txt`
@@ -23,6 +23,7 @@ Please keep quiet about it, as it doesn't need to be publicized.
 4. 运行 `python app.py`
 5. (建议) 将此项目部署到服务器上, 并添加一个 cron job 每小时运行一次
 
+### Installation
 
 1. Clone or download this repository
 2. Run `pip install -r requirements.txt` in the repository directory.
