@@ -30,7 +30,8 @@ def login(user: str, pwd: str) -> Optional[str]:
 def get_gifts() -> list:
     """
     获取优惠券列表
-    :return:
+
+    :return: 优惠券列表
     """
     params = {
         'sortBy': 'd,createAt',
